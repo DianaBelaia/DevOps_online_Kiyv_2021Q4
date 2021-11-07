@@ -1,0 +1,34 @@
+$ git reflog
+c051a55 (HEAD -> master, origin/master, origin/HEAD) HEAD@{0}: commit: change index.html
+728bb84 (origin/main, main, develop) HEAD@{1}: checkout: moving from styles to master
+b85e533 (origin/styles, styles) HEAD@{2}: checkout: moving from main to styles
+728bb84 (origin/main, main, develop) HEAD@{3}: checkout: moving from master to main
+728bb84 (origin/main, main, develop) HEAD@{4}: checkout: moving from main to master
+728bb84 (origin/main, main, develop) HEAD@{5}: merge develop: Fast-forward
+47ef814 (origin/develop) HEAD@{6}: checkout: moving from develop to main
+728bb84 (origin/main, main, develop) HEAD@{7}: merge styles: Merge made by the 'recursive'
+strategy.
+beff96d (origin/images, images) HEAD@{8}: merge images: Fast-forward
+47ef814 (origin/develop) HEAD@{9}: checkout: moving from styles to develop
+b85e533 (origin/styles, styles) HEAD@{10}: commit: change index.html
+4be83ab HEAD@{11}: commit: add styles
+659f5a3 HEAD@{12}: checkout: moving from develop to styles
+47ef814 (origin/develop) HEAD@{13}: checkout: moving from images to develop
+beff96d (origin/images, images) HEAD@{14}: commit: change index
+dea3b87 HEAD@{15}: checkout: moving from main to images
+47ef814 (origin/develop) HEAD@{16}: checkout: moving from images to main
+dea3b87 HEAD@{17}: commit: delete file index
+deb3a86 HEAD@{18}: checkout: moving from develop to images
+47ef814 (origin/develop) HEAD@{19}: checkout: moving from images to develop
+deb3a86 HEAD@{20}: commit: add images3
+47ef814 (origin/develop) HEAD@{21}: checkout: moving from develop to images
+47ef814 (origin/develop) HEAD@{22}: checkout: moving from images to develop
+47ef814 (origin/develop) HEAD@{23}: checkout: moving from develop to images
+47ef814 (origin/develop) HEAD@{24}: checkout: moving from main to develop
+47ef814 (origin/develop) HEAD@{25}: commit: change index.html
+bdc204e HEAD@{26}: commit: add styles
+659f5a3 HEAD@{27}: commit: add image
+0c958ed HEAD@{28}: commit: add index.html
+cd985ff HEAD@{29}: commit: add branches
+e71a83f HEAD@{30}: commit: add folder m2
+d116b67 HEAD@{31}: clone: from github.com:DianaBelaia/DevOps_online_Kiyv_2021Q4.git
