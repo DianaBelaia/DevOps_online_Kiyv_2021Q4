@@ -1,0 +1,3 @@
+I got acquainted with the theory of working with GitHub, mastered the basics of GitHub, learned how to create a project, make copies of it, work simultaneously with different copies, save it all to a local computer, with subsequent backup to a remote one.
+
+DevOps is a methodology for engaging a development specialist with IT service providers specialist and integrating each other's workflows to ensure product quality.
